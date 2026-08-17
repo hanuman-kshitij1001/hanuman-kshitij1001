@@ -7,9 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kshitijtiwari1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <b>I build machine learning systems end-to-end — from model to product.</b><br/><br/>
+  Regression (XGBoost) · Clustering (DBSCAN) · Deep Learning (LSTM) · LLM Integration<br/>
+  Full-stack development with the MERN stack, deployed with Docker on AWS<br/>
+  500+ DSA problems solved · AWS Certified Cloud Practitioner<br/>
+  Currently looking for a <b>Data Science / Machine Learning internship</b> 🚀
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kshitijji001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://hanuman-kshitij1001.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/hanuman-kshitij1001"><img src="https://img.shields.io/github/followers/hanuman-kshitij1001?style=for-the-badge&logo=github&color=6D28D9&labelColor=black"/></a>
 </p>
 
@@ -165,6 +173,6 @@ Full-stack **MERN** platform built from concept to tested product, live with rea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=3&width=100%"/>
 
-<p align="center"><i>🎓 <b>B.Tech CSE (AI & ML)</b> Student, Parul University · 500+ DSA Problems Solved · Open to Data Science / ML Internships 🚀</i></p>
+<p align="center"><i>🎓 B.Tech CSE (AI & ML), Parul University · CGPA 7.85/10 · Open to ML/DS Internships</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%"/>
