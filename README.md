@@ -30,14 +30,14 @@
 ## ⚡ About Me
 
 ```yaml
-name: Kshitij Tiwari
-role: ML Engineer & Full-Stack Developer
-education: B.Tech CSE (AI & ML), Parul University — CGPA 7.85/10
-focus: [Regression, Clustering, Deep Learning (LSTM), LLM Integration, MERN Stack]
-dsa: 500+ problems solved — LeetCode | Codeforces | HackerRank | GeeksforGeeks
-cloud: AWS Certified Cloud Practitioner
-status: Open to Data Science / ML internships 🚀
-fun_fact: "I don't just train models — I ship the whole product, frontend to backend."
+Name: Kshitij Tiwari
+Role: ML Engineer & Full-Stack Developer
+Education: B.Tech CSE (AI & ML), Parul University — CGPA 7.85/10
+Focus: [Regression, Clustering, Deep Learning (LSTM), LLM Integration, MERN Stack]
+Dsa: 500+ problems solved — LeetCode | Codeforces | HackerRank | GeeksforGeeks
+Cloud: AWS Certified Cloud Practitioner
+Status: Open to Data Science / ML internships 🚀
+Fun_Fact: "I don't just train models — I ship the whole product, frontend to backend."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=3&width=100%"/>
