@@ -32,7 +32,7 @@
 ```yaml
 Name: Kshitij Tiwari
 Role: ML Engineer & Full-Stack Developer
-Education: B.Tech CSE (AI & ML), Parul University — CGPA 7.85/10
+Education: B.Tech CSE (AI & ML), Parul University — 
 Focus: [Regression, Clustering, Deep Learning (LSTM), LLM Integration, MERN Stack]
 Dsa: 500+ problems solved — LeetCode | Codeforces | HackerRank | GeeksforGeeks
 Cloud: AWS Certified Cloud Practitioner
