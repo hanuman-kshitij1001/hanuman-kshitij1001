@@ -10,7 +10,7 @@
   <b>I build machine learning systems end-to-end — from model to product.</b><br/><br/>
   Regression (XGBoost) · Clustering (DBSCAN) · Deep Learning (LSTM) · LLM Integration<br/>
   Full-stack development with the MERN stack, deployed with Docker on AWS<br/>
-  500+ DSA problems solved · AWS Certified Cloud Practitioner<br/>
+  600+ DSA problems solved · AWS Certified Cloud Practitioner<br/>
   Currently looking for a <b>Data Science / Machine Learning internship.</b> 🚀
 </p>
 
