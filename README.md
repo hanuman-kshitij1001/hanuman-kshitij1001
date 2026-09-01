@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Turning+data+into+decisions%2C+one+model+at+a+time.;Building+ML+pipelines+from+regression+to+LLMs.;Full-stack+MERN+dev+who+ships+real+products.;500%2B+DSA+problems+solved+%7C+Always+learning.&font=Fira%20Code&center=true&width=650&height=45&color=06B6D4&vCenter=true&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Turning+data+into+decisions%2C+one+model+at+a+time.;Building+ML+pipelines+from+regression+to+LLMs.;Full-stack+MERN+dev+who+ships+real+products.;600%2B+DSA+problems+solved+%7C+Always+learning.&font=Fira%20Code&center=true&width=650&height=45&color=06B6D4&vCenter=true&size=22" />
   </a>
 </p>
 
