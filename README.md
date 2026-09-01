@@ -37,7 +37,7 @@ Focus: [Regression, Clustering, Deep Learning (LSTM), LLM Integration, MERN Stac
 Dsa: 500+ problems solved — LeetCode | Codeforces | HackerRank | GeeksforGeeks
 Cloud: AWS Certified Cloud Practitioner
 Status: Open to Data Science / ML internships 🚀
-Fun_Fact: "I don't just train models — I ship the whole product, frontend to backend."
+Fun_Fact: "I don't just train models — I ship the whole product, frontend to backend.."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=3&width=100%"/>
