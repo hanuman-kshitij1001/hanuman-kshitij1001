@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kshitijtiwari1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kshitijji001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://hanuman-kshitij1001.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/hanuman-kshitij1001"><img src="https://img.shields.io/github/followers/hanuman-kshitij1001?style=for-the-badge&logo=github&color=6D28D9&labelColor=black"/></a>
 </p>
 
@@ -32,12 +32,12 @@
 ```yaml
 Name: Kshitij Tiwari
 Role: ML Engineer & Full-Stack Developer
-Education: B.Tech CSE (AI & ML), Parul University . 
+Education: B.Tech CSE (AI & ML), Parul University.
 Focus: [Regression, Clustering, Deep Learning (LSTM), LLM Integration, MERN Stack]
-Dsa: 500+ problems solved — LeetCode | Codeforces | HackerRank | GeeksforGeeks
+Dsa: 600+ problems solved — LeetCode | Codeforces | HackerRank | GeeksforGeeks
 Cloud: AWS Certified Cloud Practitioner
 Status: Open to Data Science / ML internships 🚀
-Fun_Fact: "I don't just train models — I ship the whole product, frontend to backend.."
+Fun_Fact: "I don't just train models — I ship the whole product, frontend to backend."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:06B6D4&height=3&width=100%"/>
@@ -144,7 +144,7 @@ Full-stack **MERN** platform built from concept to tested product, live with rea
 
 ## 🏆 Achievements
 
-- 🧩 **500+ DSA problems** solved across LeetCode, Codeforces, HackerRank & GeeksforGeeks
+- 🧩 **600+ DSA problems** solved across LeetCode, Codeforces, HackerRank & GeeksforGeeks
 - 🤖 Independently designed, built & deployed a full end-to-end ML pipeline — regression → clustering → deep learning → LLM
 - 🛠️ Independently designed, built & deployed a **production-style MERN platform**, validated with 10+ active drivers
 - ☁️ AWS Certified Cloud Practitioner
